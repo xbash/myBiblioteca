@@ -9,6 +9,6 @@ package mybiblioteca;
  *
  * @author xbash
  */
-public class myClassSaludo {
+public class mySaludo3 {
     
 }
