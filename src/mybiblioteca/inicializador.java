@@ -9,6 +9,9 @@ package mybiblioteca;
  *
  * @author xbash
  */
-public class mySaludo2 {
+public class inicializador {
+    public static void main(String[] args) {
+        menuPrincipal.main(args);
+    }
     
 }
