@@ -11,7 +11,7 @@ public class menuPrincipal extends javax.swing.JFrame {
         setTitle("Menú principal | myBiblioteca v2020");
         //setSize(480, 400);
         //setLocationRelativeTo(null);
-        setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
         setResizable(true);
     }
 
